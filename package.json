@@ -21,7 +21,7 @@
     "jasmine": "^3.5.0",
     "jasmine-ts": "^0.3.0",
     "jasmine-ts-console-reporter": "^3.1.1",
-    "pug": "^2.0.4",
+    "pug": "^3.0.1",
     "pug-cli": "^1.0.0-alpha6",
     "source-map-loader": "^0.2.4",
     "style-loader": "^1.1.3",
